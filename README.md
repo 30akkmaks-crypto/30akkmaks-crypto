@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=2500&pause=300&color=00FF00&center=true&vCenter=true&width=550&lines=30akkmaks-crypto;BLOCKCHAIN_MODE;TIC_TAC_TOE_7x" />
+</h1>
 
-<!--
-**30akkmaks-crypto/30akkmaks-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/₿-CRYPTO-00FF00?style=for-the-badge&logo=bitcoin" />
+  <img src="https://img.shields.io/badge/🔗-BLOCKCHAIN-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/❌⭕-TIC_TAC_TOE-00FFAA?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+```text
+┌──────────────────────────────────────────────────────────────────────────┐
+│  ██████╗██████╗ ██╗   ██╗██████╗ ████████╗ ██████╗                       │
+│  ██╔════╝██╔══██╗╚██╗ ██╔╝██╔══██╗╚══██╔══╝██╔═══██╗                      │
+│  ██║     ██████╔╝ ╚████╔╝ ██████╔╝   ██║   ██║   ██║                      │
+│  ██║     ██╔══██╗  ╚██╔╝  ██╔═══╝    ██║   ██║   ██║                      │
+│  ╚██████╗██║  ██║   ██║   ██║        ██║   ╚██████╔╝                      │
+│   ╚═════╝╚═╝  ╚═╝   ╚═╝   ╚═╝        ╚═╝    ╚═════╝                       │
+└──────────────────────────────────────────────────────────────────────────┘
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌──────────────────────────────────────────────────────────────────────────┐
+│  [₿] WALLET STATUS                                                        │
+│  ═════════════════════════════════════════════════════════════════════   │
+│  • Address       : 0x30akkmaks...crypto                                  │
+│  • Network       : Mainnet                                                │
+│  • Block height  : 7,291,482                                              │
+│  • Repos         : 68                                                     │
+│  • Stars         : 1,789                                                  │
+│  • Languages     : Python, Go, Rust, C#, JS, TS, Java                     │
+└──────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────┐
+│  [❌⭕] TIC_TAC_TOE_7x                                                      │
+│  ═════════════════════════════════════════════════════════════════════   │
+│  • 2 players or vs AI (minimax)                                          │
+│  • Score tracking (X / O / Draw)                                         │
+│  • Win line highlighting                                                 │
+│  • Reset / rematch                                                       │
+│  • Smart AI with difficulty levels (optional)                            │
+│  • 7 languages – same logic                                              │
+└──────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────┐
+│  [📊] HASH_RATE                                                           │
+│  ═════════════════════════════════════════════════════════════════════   │
+│  Python     ████████████████████░░░░░░  74%                               │
+│  Go         ████████████████░░░░░░░░░░  60%                               │
+│  Rust       ██████████████░░░░░░░░░░░░  50%                               │
+│  TypeScript ██████████░░░░░░░░░░░░░░░░  38%                               │
+└──────────────────────────────────────────────────────────────────────────┘
+
+╔══════════════════════════════════════════════════════════════════════════╗
+║  📡 CONTRACT_ADDRESS                                                      ║
+║  ════════════════════════════════════════════════════════════════════════║
+║  Telegram  : @akkmaks30                                                  ║
+║  GitHub    : github.com/30akkmaks-crypto                                 ║
+╚══════════════════════════════════════════════════════════════════════════╝
